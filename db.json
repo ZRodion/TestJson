@@ -2,7 +2,7 @@
     "studentsinfo": [
         {
                 "id": "100",
-                "name": "Kirill_hues",
+                "name": "kirill",
                 "email": "adam@example.com",
                 "address": "House #33, ABC Lane, ABC CITY 06987",
                 "gender" : "male",
